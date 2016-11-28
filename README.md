@@ -1,6 +1,8 @@
 # InvECO_Junction2016
 
-This is a Java project using Android Studio for the InvECO project at Junction 2016, Helsinki. YOu can find detail of the project here: https://devpost.com/software/inveco#updates
+This is a Java project using Android Studio for the InvECO project at Junction 2016, Helsinki. YOu can find detail of the project here:
+- https://devpost.com/software/inveco#updates
+- https://www.youtube.com/watch?v=N237dF8gRyI&feature=youtu.be
 
 TO run the code, follow belllow steps:
 
