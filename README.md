@@ -3,7 +3,6 @@
 This is a Java project using Android Studio for the InvECO project at Junction 2016, Helsinki. YOu can find detail of the project here: https://devpost.com/software/inveco#updates
 
 TO run the code, follow belllow steps:
-
 1.Create a folder in AndroidStudioProjects folder and name it SmartKitchen
 2.Copy all files to your hard drive in SmartKitchen folder
 3.gradle.zip, .idea.zip, build.zip, and.gradle should be unzip into SmartKitchen folder
