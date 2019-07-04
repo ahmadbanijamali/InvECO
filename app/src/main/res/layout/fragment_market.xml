@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.android.smartkitchen.MarketFragment"
+    android:id="@+id/Relative_Fragment_for_Market">
+
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="SALE"
+        android:id="@+id/sale"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="@android:color/background_light"
+        android:textColor="@android:color/holo_red_dark"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="TOKMANNI"
+        android:id="@+id/tokmanni"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@android:color/background_light"
+        android:backgroundTint="@color/colorAccent"
+        android:layout_marginBottom="35dp"
+        android:layout_above="@+id/sale"
+        android:layout_alignLeft="@+id/prisma"
+        android:layout_alignStart="@+id/prisma" />
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="PRISMA"
+        android:id="@+id/prisma"
+        android:backgroundTint="@android:color/holo_green_dark"
+        android:textColor="@android:color/background_light"
+        android:layout_above="@+id/tokmanni"
+        android:layout_alignLeft="@+id/sale"
+        android:layout_alignStart="@+id/sale"
+        android:layout_marginBottom="40dp" />
+
+</RelativeLayout>
